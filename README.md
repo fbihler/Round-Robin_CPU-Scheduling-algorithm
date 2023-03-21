@@ -1,5 +1,5 @@
 # Round-Robin_CPU-Scheduling-algorithm
-***This project is currently under development. For contributions, please contact.***
+***This project is currently under development and DOES NOT work as expected. For contributions, please contact.***
 
 **Description:**
 Console Application in C++ that simulates the Round Robin CPU Scheduling Algorithm**
